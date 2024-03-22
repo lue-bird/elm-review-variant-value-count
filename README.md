@@ -1,6 +1,4 @@
-# elm-review-variant-value-count
-
-Provides the [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/latest/) rule
+The [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/latest/) rule
 [`Review.VariantValueCount.zeroOrOne`](https://package.elm-lang.org/packages/lue-bird/elm-review-variant-value-count/1.0.0/Review-VariantValueCount#zeroOrOne) to limit the number of allowed values on a variant to 1 at most.
 
 ## try it
