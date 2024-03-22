@@ -26,7 +26,7 @@ initialContextCreator =
 {-| Reports variant definitions that have multiple attached values
 
     config =
-        [ Review.VariantValueCount.rule
+        [ Review.VariantValueCount.zeroOrOne
         ]
 
 

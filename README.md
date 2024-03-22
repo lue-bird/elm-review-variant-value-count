@@ -1,6 +1,6 @@
 Limit the number of allowed values on a variant to 1 at most
 by using the [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/latest/) rule
-[`Review.VariantValueCount.zeroOrOne`](https://package.elm-lang.org/packages/lue-bird/elm-review-variant-value-count/1.0.0/Review-VariantValueCount#zeroOrOne)
+[`Review.VariantValueCount.zeroOrOne`](https://package.elm-lang.org/packages/lue-bird/elm-review-variant-value-count/1.0.1/Review-VariantValueCount/#zeroOrOne)
 
 ## try it
 
