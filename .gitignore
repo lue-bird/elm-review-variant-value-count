@@ -1,0 +1,7 @@
+node_modules/
+elm-stuff/
+docs.json
+
+# Editors
+.idea/
+ElmjutsuDumMyM0DuL3.elm
