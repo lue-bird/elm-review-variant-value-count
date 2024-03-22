@@ -5,3 +5,4 @@
 
 #### 1.0.2
   - readme add reported example
+  - rule documentation add link to why

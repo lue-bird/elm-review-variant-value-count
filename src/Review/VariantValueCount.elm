@@ -48,6 +48,8 @@ dependency variants with multiple arguments are also ok
     notReported =
         List.NonEmpty.NonEmpty 'H' [ 'e', 'l', 'l', 'o' ]
 
+[why enable this rule?](https://dark.elm.dmy.fr/packages/lue-bird/elm-review-variant-value-count/latest#why)
+
 -}
 zeroOrOne : Review.Rule.Rule
 zeroOrOne =
